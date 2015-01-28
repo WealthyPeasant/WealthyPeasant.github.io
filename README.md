@@ -1,15 +1,8 @@
-<html>
-<body>
-
-- !!!
-
- <video width="320" height="240" controls>
-  <source src="aMbR2BW_460sv.mp4" type="video/mp4">
-  <source src="aMbR2BW_460sv.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video> 
-
-
+ <html>
+<body bgcolor="#E6E6FA">
+<h1>Nay m'lord</h1>
+ <img src="http://www.nerdspan.com/wp-content/uploads/2013/03/2013-01-10_00002.jpg" style="width:525px;height:393px">
 
 </body>
 </html>
+
